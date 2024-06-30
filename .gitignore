@@ -1,0 +1,6 @@
+.DS_Store
+file2.txt
+
+#this is comment
+# log file
+*.log
